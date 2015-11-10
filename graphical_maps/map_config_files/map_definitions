@@ -1,0 +1,17 @@
+[level]
+tileset = tileset/basic_tileset.png
+map = ..........
+      .#####.##.
+      .#...#..#.
+      .#...####.
+      .##.##....
+      ........##
+
+[.]
+name = floor
+tile = 0, 3
+
+[#]
+name = wall
+wall = true
+block = true
